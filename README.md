@@ -9,19 +9,26 @@ https://sparcopen.org/our-work/big-deal-knowledge-base/
 
 # How-to
 
-Environment
+**Environment**
 ```
 python3 -m venv <env_name>
 source <env_name>/bin/activate
 pip install -r requirements.txt
 ```
 
-Data Preparation before Visualization
+**Data Preparation before Visualization**
+
+Download the data file from Big Deal Knowledge Base then rename and save it to /data/bigdeal.csv
 ```
 git clone https://github.com/dzcyb0rg68/e583infovis_sparc.git
 cd e583infovis_sparc
 python data_prep.py
 ```
+
+After you have executed data_prep.py, 3 additional files (data.csv, currency.csv, graph variables.csv) will be generated. They are the source for Tableau visulization.  
+
+**Visualization and Refresh Dashboard**
+Download the Sparc Big Deal Subscription Pricing Tracker.twbx in tableau dashboard folder, open with tableau desktop, and click refresh data. 
 
 # Visualization Preview
 ![alt text](https://github.com/dzcyb0rg68/e583infovis_sparc/blob/main/tableau%20dashboard/preview/All.png?raw=true)
