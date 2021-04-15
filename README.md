@@ -28,6 +28,7 @@ python data_prep.py
 After you have executed data_prep.py, 3 additional files (data.csv, currency.csv, graph variables.csv) will be generated. They are the source for Tableau visulization.  
 
 **Visualization and Refresh Dashboard**
+
 Download the Sparc Big Deal Subscription Pricing Tracker.twbx in tableau dashboard folder, open with tableau desktop, and click refresh data. 
 
 # Visualization Preview
