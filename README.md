@@ -7,7 +7,7 @@ Currently, the SPARC organization has made this data available to the public fre
 
 https://sparcopen.org/our-work/big-deal-knowledge-base/
 
-**How-to**
+# How-to
 
 Environment
 ```
