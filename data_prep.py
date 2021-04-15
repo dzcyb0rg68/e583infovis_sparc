@@ -17,6 +17,10 @@ data = pd.read_csv('data/bigdeal.csv')
 currency = pd.DataFrame({'Currency':['USD', 'GBP', 'EUR', 'CAD']})
 currency.to_csv('data/currency.csv')
 
+# Generates a csv file that stores graph variables ['Bar', 'Line', 'Shape']
+graph = pd.DataFrame({'Graph type':['Bar', 'Line', 'Shape']})
+graph.to_csv('data/graph variables.csv')
+
 # Generates currency conversion table to currency_rate.csv
 currency_list = list(currency['Currency'].unique())
 year_dict = {}
