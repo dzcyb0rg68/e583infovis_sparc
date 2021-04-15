@@ -23,12 +23,5 @@ cd e583infovis_sparc
 python data_prep.py
 ```
 
-Please note that the original data files have 204.4GB and contain 793,326,999 reddit posts. The extracting may take a up to 24 hours to complete. To speed up, please contract the authors for parallel extracting support. 
-
-
-# Questions?
-
-Please reach out to the author Danny Chang at cc93@iu.edu 
-
 # Visualization Preview
 ![alt text](https://github.com/dzcyb0rg68/e583infovis_sparc/blob/main/tableau%20dashboard/preview/All.png?raw=true)
