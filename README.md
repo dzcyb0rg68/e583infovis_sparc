@@ -1,7 +1,7 @@
 # Sparc Big Deal Subscription Pricing Tracker
-SPARC (the Scholarly Publishing and Academic Resources Coalition) works to enable the open sharing of research outputs and educational materials in order to democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education. As part of this mission, SPARC has developed the Big Deal Knowledge Bases, which details what thousands of peer institutions have paid for journal subscription packages. 
+The Scholarly Publishing and Academic Resources Coalition (SPARC) works to enable the open sharing of sale data of research results and educational materials.  Publishers who sell these materials have all of the sale data, but the institutions that buy the materials do not have access to this data.  This market asymmetry leaves institutions at a disadvantage when determining the market price of the materials that the institution wants to purchase.  Increased access to this data allows institutions to gain access to these materials at a more competitive and affordable price, which will democratize access to knowledge, accelerate discovery, and increase the return on our investment in research and education.  As part of this mission, SPARC has developed the Big Deal Knowledge Bases, which details what thousands of peer institutions have paid for journal subscription packages.
+Currently SPARC has made this data available to the public for free [1].  The data is in a table format and users can filter out certain criteria and view the data that is relevant to them.  SPARC wants this data to be transformed into a more visually appealing output that is user friendly.  This will allow the public to gain insights more easily than they are able to today and to be more informed when looking to purchase these materials.
 
-Currently, the SPARC organization has made this data available to the public freely at  https://sparcopen.org/our-work/big-deal-knowledge-base/.  The data is in a table format and users can filter out certain criteria and view the data that is relevant to them. The SPARC organization wants this data transformed into a more visually appealing output so that the public would be able to gain insights easily than they are able to today.
 
 # Data Source
 
@@ -25,7 +25,7 @@ cd e583infovis_sparc
 python data_prep.py
 ```
 
-After you have executed data_prep.py, 3 additional files (data.csv, currency.csv, graph variables.csv) will be generated. They are the source for Tableau visulization.  
+After you have executed data_prep.py, 3 additional files (data.csv, currency.csv, graph variables.csv) will be generated. They are the sources for Tableau visulization.  
 
 **Visualization and Refresh Dashboard**
 
