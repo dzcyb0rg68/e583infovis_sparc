@@ -34,3 +34,12 @@ Download the Sparc Big Deal Subscription Pricing Tracker.twbx in tableau dashboa
 
 # Visualization Preview
 ![alt text](https://github.com/dzcyb0rg68/e583infovis_sparc/blob/main/tableau%20dashboard/preview/All.png?raw=true)
+
+# Paper Preview
+
+<object data="https://github.com/dzcyb0rg68/e583infovis_sparc/blob/main/report/Visualization%20of%20Historical%20Prices%20for%20Journal%20Subscriptions.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/dzcyb0rg68/e583infovis_sparc/blob/main/report/Visualization%20of%20Historical%20Prices%20for%20Journal%20Subscriptions.pdf">
+        <p>View the PDF report: <a href="https://github.com/dzcyb0rg68/e583infovis_sparc/blob/main/report/Visualization%20of%20Historical%20Prices%20for%20Journal%20Subscriptions.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
